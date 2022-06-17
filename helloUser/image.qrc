@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>smileMain.ico</file>
+        <file>china_flag.png</file>
+        <file>Flag_of_Tatarstan.svg.png</file>
+        <file>germany_flag.png</file>
+        <file>russia_flag.png</file>
+        <file>united_kingdom_flag.png</file>
+    </qresource>
+</RCC>

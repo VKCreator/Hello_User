@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>helloUser_ru.qm</file>
+        <file>helloUser_de.qm</file>
+        <file>helloUser_tt.qm</file>
+        <file>helloUser_zh.qm</file>
+    </qresource>
+</RCC>
