@@ -1,4 +1,4 @@
-# Hello_User
+# Hello_User_Qt
 This application is welcomed by the user according to the current time.
 
 
